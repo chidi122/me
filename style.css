@@ -1,0 +1,80 @@
+
+
+.search-bar{
+  font-size: 20px;
+  margin-left: 12px;
+  
+}
+.bb{
+  height: 30px;
+  width: 357px;
+  display: block;
+  columns: green;
+
+  
+}
+.nail{
+  height: 45px;
+  width: 357px;
+  color:white;
+  background-color:rgba(0, 0, 255, 0.753);
+  border: none;
+  border-radius: 30px;
+
+}
+.tube{
+  height: 45px;
+  width: 357px;
+  background-color: white;
+  margin-left: 8px;
+  transition: opacity0.15s;
+
+}
+.pen{
+  width:1px;
+  color: brown;
+
+}
+.come{
+  display: inline-block;
+}
+.line{
+  display: inline-block;
+}
+
+.vox{
+  display: block;
+
+
+}
+.vos{
+  display: inline;
+  height: 12px;
+  width: 100pxpx;
+  margin-top: 20px;
+  padding-top: 50px;
+  padding-top: 50px;
+  padding-left: 50px;
+  
+}
+
+.div-example{
+  display: inline-block;
+
+.card{
+  width: 300px;
+  height: auto;
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 2rem auto;
+  background-color: #fff;
+  overflow: hidden;
+
+
+}
+
+  
+  
+
+
